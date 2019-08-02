@@ -1,5 +1,7 @@
 # Student Directory
 
+# Chris init
+
 In this week we are aiming to get you ready with a lot of basic concepts and practices that will be the base for your further development as a web developer. Although they might look simple, it is really important that you grasp these concepts. We are going to build a simple terminal based student directory. Exciting, huh?
 
 Make sure that you go through the **knowledge pills (:pill:)** when you struggle.
